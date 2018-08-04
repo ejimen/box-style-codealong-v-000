@@ -148,8 +148,12 @@ header {
   width: 100%;
   z-index: 2;
   border-bottom: 1px solid #ccc;
+  text-align: center;
 }
 
+#navbar {
+  border-left: 1px solid #ccc;
+}
 /*////////// LOGO //////////*/
 
 
